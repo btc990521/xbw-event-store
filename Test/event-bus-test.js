@@ -1,4 +1,5 @@
 const { HYEventBus } = require('../src')
+import axios from axios
 
 const eventBus = new HYEventBus()
 

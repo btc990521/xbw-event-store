@@ -7,7 +7,7 @@
     "test-bus": "node ./Test/event-bus-test.js",
     "test-store": "node ./Test/event-store-test.js"
   },
-  "author": "coderwhy",
+  "author": "xbw",
   "license": "MIT",
   "keywords": [
     "state managment",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-      "url": "git+https://github.com/btc990521/xbw-event-store.git"
+    "url": "git+https://github.com/btc990521/xbw-event-store.git"
   },
   "devDependencies": {
     "axios": "^0.24.0"
