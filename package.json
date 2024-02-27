@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/btc990521/xbw-event-store.git"
+    "url": "git+https://github.com/btc990521/xbw-event-store"
   },
   "devDependencies": {
     "axios": "^0.24.0"
